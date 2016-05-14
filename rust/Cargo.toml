@@ -1,0 +1,11 @@
+[package]
+name = "rustygem"
+version = "0.1.0"
+authors = ["Oleg Antonyan <oleg.b.antonyan@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "*"
+libc = "*"
+
+[lib]
+crate-type = ["dylib"]
