@@ -35,7 +35,7 @@ bundle install
 
 ## Usage
 
-Call `Rustygem.perfrom` with a Hash argument, like this `{ some_integer: 32, some_string: 'hello' }`. Refer to source code to see how it works.
+Call `Rustygem.perform` with a Hash argument, like this `{ some_integer: 32, some_string: 'hello' }`. Refer to source code to see how it works.
 
 ## Development
 
